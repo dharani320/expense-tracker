@@ -139,6 +139,9 @@ Do not commit the `.env` file to GitHub.
 - Responsive mobile improvements
 - Deployment to a cloud platform
 
+## Screenshot
+![Expense Tracker Dashboard](screenshots/expense-tracker-dashboard.png)
+
 ## Author
 
 Dharani
